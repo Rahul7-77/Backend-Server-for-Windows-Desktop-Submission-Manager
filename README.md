@@ -74,7 +74,6 @@ DesktopSubmissionManager is a desktop application developed using VB.NET for cre
 - **Ctrl+P**: View previous form (You should be in view submissions for this to work)
 - **Ctrl+N**: View next form. (You should be in view submissions for this to work)
 - **Ctrl+D**: Delete form. (You should be in view submissions for this to work)
-- 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
